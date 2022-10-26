@@ -1,10 +1,10 @@
 import './App.css';
-import Glasses from './components/Glasses';
+import BaiTapLayOut from './components/BaiTapLayOut';
 
 function App() {
   return (
     <div>
-     <Glasses/>
+      <BaiTapLayOut/>
     </div>
   );
 }
